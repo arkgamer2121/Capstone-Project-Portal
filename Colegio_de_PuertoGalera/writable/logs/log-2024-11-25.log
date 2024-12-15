@@ -1,0 +1,822 @@
+CRITICAL - 2024-11-25 01:52:17 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:52:22 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:52:27 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:52:32 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:52:37 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:52:42 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:52:47 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:52:51 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:52:57 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:53:02 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:53:06 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:53:12 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:53:17 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:53:23 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:54:24 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:55:24 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:56:24 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:57:24 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:58:24 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 01:59:24 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 02:00:29 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 02:01:24 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 02:02:24 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 02:03:24 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 02:04:20 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 02:04:22 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+ERROR - 2024-11-25 12:31:02 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'u127431254_cdpgapp'@'localhost' (using password: YES) in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'u127431254_cdpg...', '[LyqKXUKh2', 'u127431254_cdpg...', 3306, '', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\Home.php(102): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\Home->index()
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\Home.php(102): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\Home->index()
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#11 {main}
+CRITICAL - 2024-11-25 12:31:02 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `teachers`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Home.php(102): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+ERROR - 2024-11-25 12:32:25 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '[LyqKXUKh2', 'cdpgapp', 3306, '', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\Home.php(102): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\Home->index()
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: YES) in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\Home.php(102): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\Home->index()
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#11 {main}
+CRITICAL - 2024-11-25 12:32:25 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `teachers`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Home.php(102): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+ERROR - 2024-11-25 12:33:09 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', 'cdpgapp', 3306, '', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\Home.php(102): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\Home->index()
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: YES) in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\Home.php(102): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\Home->index()
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#11 {main}
+CRITICAL - 2024-11-25 12:33:09 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `teachers`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Home.php(102): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+ERROR - 2024-11-25 12:33:10 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: YES) in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', 'cdpgapp', 3306, '', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\Home.php(102): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\Home->index()
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: YES) in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\Home.php(102): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\Home->index()
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#11 {main}
+CRITICAL - 2024-11-25 12:33:10 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `teachers`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Home.php(102): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+ERROR - 2024-11-25 12:35:27 --> mysqli_sql_exception: Table 'cdpgapp.sections' doesn't exist in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `section...', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `section...')
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `section...')
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `section...', Array, false)
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\SectionController.php(119): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\SectionController->list()
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SectionController))
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-25 12:35:27 --> Table 'cdpgapp.sections' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `sections`.`id`, `sections`.`name` as `section_name`, `sections`.`year`, `sections`.`course`, `enrolled_students`.`name` as `student_name`
+FROM `sections`
+LEFT JOIN `enrolled_students` ON `sections`.`id` = `enrolled_students`.`section_id`
+ORDER BY `sections`.`course` ASC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\SectionController.php(119): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\SectionController->list()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SectionController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+ERROR - 2024-11-25 12:37:48 --> mysqli_sql_exception: Table 'cdpgapp.enrolled_students' doesn't exist in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `section...', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `section...')
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `section...')
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `section...', Array, false)
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\SectionController.php(119): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\SectionController->list()
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SectionController))
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2024-11-25 12:37:48 --> Table 'cdpgapp.enrolled_students' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `sections`.`id`, `sections`.`name` as `section_name`, `sections`.`year`, `sections`.`course`, `enrolled_students`.`name` as `student_name`
+FROM `sections`
+LEFT JOIN `enrolled_students` ON `sections`.`id` = `enrolled_students`.`section_id`
+ORDER BY `sections`.`course` ASC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\SectionController.php(119): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\SectionController->list()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SectionController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 12:51:32 --> Undefined array key "sem"
+in APPPATH\Views\schedule\index.php on line 320.
+ 1 APPPATH\Views\schedule\index.php(320): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "sem"', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 320)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(30): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 12:52:14 --> Undefined array key "sem"
+in APPPATH\Views\schedule\index.php on line 320.
+ 1 APPPATH\Views\schedule\index.php(320): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "sem"', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 320)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(30): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 12:53:03 --> Undefined array key "sem"
+in APPPATH\Views\schedule\index.php on line 383.
+ 1 APPPATH\Views\schedule\index.php(383): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "sem"', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 383)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(30): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 12:55:09 --> Undefined array key "semester"
+in APPPATH\Views\schedule\index.php on line 320.
+ 1 APPPATH\Views\schedule\index.php(320): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "semester"', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 320)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(30): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:02:55 --> Undefined variable $selectedDay
+in APPPATH\Views\schedule\index.php on line 292.
+ 1 APPPATH\Views\schedule\index.php(292): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $selectedDay', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 292)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(30): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:04:22 --> Undefined variable $selectedDay
+in APPPATH\Views\schedule\index.php on line 292.
+ 1 APPPATH\Views\schedule\index.php(292): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $selectedDay', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 292)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(30): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:04:23 --> Undefined variable $selectedDay
+in APPPATH\Views\schedule\index.php on line 292.
+ 1 APPPATH\Views\schedule\index.php(292): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $selectedDay', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 292)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(30): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:04:32 --> Undefined variable $selectedDay
+in APPPATH\Views\schedule\index.php on line 292.
+ 1 APPPATH\Views\schedule\index.php(292): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $selectedDay', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 292)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(30): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:07:35 --> Undefined array key "subject_name"
+in APPPATH\Views\schedule\index.php on line 336.
+ 1 APPPATH\Views\schedule\index.php(336): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "subject_name"', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 336)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(40): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:07:36 --> Undefined array key "subject_name"
+in APPPATH\Views\schedule\index.php on line 336.
+ 1 APPPATH\Views\schedule\index.php(336): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "subject_name"', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 336)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(40): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:07:36 --> Undefined array key "subject_name"
+in APPPATH\Views\schedule\index.php on line 336.
+ 1 APPPATH\Views\schedule\index.php(336): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "subject_name"', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 336)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(40): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:07:36 --> Undefined array key "subject_name"
+in APPPATH\Views\schedule\index.php on line 336.
+ 1 APPPATH\Views\schedule\index.php(336): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "subject_name"', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 336)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(40): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:15:02 --> Undefined variable $courses
+in APPPATH\Views\schedule\index.php on line 308.
+ 1 APPPATH\Views\schedule\index.php(308): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $courses', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 308)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(40): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:18:47 --> Undefined variable $facultyList
+in APPPATH\Views\schedule\index.php on line 293.
+ 1 APPPATH\Views\schedule\index.php(293): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $facultyList', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 293)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(40): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:18:48 --> Undefined variable $facultyList
+in APPPATH\Views\schedule\index.php on line 293.
+ 1 APPPATH\Views\schedule\index.php(293): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $facultyList', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 293)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(40): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:22:21 --> Undefined variable $faculty
+in APPPATH\Views\schedule\index.php on line 200.
+ 1 APPPATH\Views\schedule\index.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $faculty', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 200)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(40): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:22:22 --> Undefined variable $faculty
+in APPPATH\Views\schedule\index.php on line 200.
+ 1 APPPATH\Views\schedule\index.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $faculty', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 200)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(40): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:23:23 --> Undefined variable $faculty
+in APPPATH\Views\schedule\index.php on line 200.
+ 1 APPPATH\Views\schedule\index.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $faculty', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 200)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(40): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:23:23 --> Undefined variable $faculty
+in APPPATH\Views\schedule\index.php on line 200.
+ 1 APPPATH\Views\schedule\index.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $faculty', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 200)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(40): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:23:52 --> Undefined variable $faculty
+in APPPATH\Views\schedule\index.php on line 200.
+ 1 APPPATH\Views\schedule\index.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $faculty', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 200)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(40): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:23:53 --> Undefined variable $faculty
+in APPPATH\Views\schedule\index.php on line 200.
+ 1 APPPATH\Views\schedule\index.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $faculty', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 200)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(40): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:23:53 --> Undefined variable $faculty
+in APPPATH\Views\schedule\index.php on line 200.
+ 1 APPPATH\Views\schedule\index.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $faculty', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 200)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(40): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 13:35:17 --> Undefined variable $firstDay
+in APPPATH\Views\schedule\index.php on line 328.
+ 1 APPPATH\Views\schedule\index.php(328): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $firstDay', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 328)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(30): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 23:35:58 --> Undefined variable $courses
+in APPPATH\Views\include\features_course.php on line 12.
+ 1 APPPATH\Views\include\features_course.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $courses', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\include\\features_course.php', 12)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\include\\features_course.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(467): CodeIgniter\View\View->render('include/features_course', null, true)
+ 5 APPPATH\Views\userpage\index.php(72): CodeIgniter\View\View->include('include/features_course')
+ 6 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\userpage\\index.php')
+ 7 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('userpage/index', [], true)
+ 9 APPPATH\Controllers\Home.php(115): view('userpage/index', [...])
+10 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->index()
+11 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-25 23:57:32 --> Invalid file: "userpage/homepage_picture.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('userpage/homepage_picture.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('userpage/homepage_picture', [], true)
+ 3 APPPATH\Controllers\Home.php(146): view('userpage/homepage_picture', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->homepage()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')

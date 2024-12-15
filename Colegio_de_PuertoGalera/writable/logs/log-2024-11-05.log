@@ -1,0 +1,581 @@
+CRITICAL - 2024-11-05 02:47:24 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:47:40 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:47:41 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:47:41 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:47:44 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:47:49 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:48:06 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:48:06 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:48:06 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:48:09 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:48:18 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:48:19 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:48:31 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:48:31 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:49:11 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:50:00 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:50:03 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:50:21 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:50:21 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:50:21 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:50:24 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:50:29 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:50:36 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:50:39 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:50:44 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:50:49 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:51:06 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:51:06 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:51:11 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:52:11 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:53:23 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:54:11 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:55:11 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 02:56:11 --> file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. 
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo for api.tawk.to failed: No such host is known. ', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 03:27:13 --> Undefined array key "course_id"
+in APPPATH\Views\schedule\index.php on line 289.
+ 1 APPPATH\Views\schedule\index.php(289): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "course_id"', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 289)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(37): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 12:42:00 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+ERROR - 2024-11-05 12:45:35 --> mysqli_sql_exception: Column 'name' cannot be null in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `sc...', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `sc...')
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `sc...')
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `sc...', Array, false)
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\ScheduleController.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\ScheduleController->create()
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+#10 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-05 12:45:35 --> Column 'name' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `schedules` (`faculty_name`, `days_of_week`, `title`, `time_from`, `time_to`, `schedule_type`, `sem`, `room`, `description`, `course`, `year`, `section`, `subjects`, `name`) VALUES (:faculty_name:, :days_of_week:, :title:, :time_from:, :time_to:, :schedule_type:, :sem:, :room:, :description:, :course:, :year:, :section:, :subjects:, :name:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ScheduleController.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+ERROR - 2024-11-05 13:21:14 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'root', '', 'cdpgapp', 3306, '', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\SubjectListController.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\SubjectListController->index()
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectListController))
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\SubjectListController.php(20): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\SubjectListController->index()
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectListController))
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#11 {main}
+CRITICAL - 2024-11-05 13:21:14 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `subjects`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\SubjectListController.php(20): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\SubjectListController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectListController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+ERROR - 2024-11-05 13:21:18 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'root', '', 'cdpgapp', 3306, '', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\SubjectListController.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\SubjectListController->index()
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectListController))
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\SubjectListController.php(20): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\SubjectListController->index()
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectListController))
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#11 {main}
+CRITICAL - 2024-11-05 13:21:18 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `subjects`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\SubjectListController.php(20): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\SubjectListController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectListController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+ERROR - 2024-11-05 13:21:23 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'root', '', 'cdpgapp', 3306, '', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\SubjectListController.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\SubjectListController->index()
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectListController))
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\SubjectListController.php(20): CodeIgniter\BaseModel->findAll()
+#6 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\SubjectListController->index()
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectListController))
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#11 {main}
+CRITICAL - 2024-11-05 13:21:23 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `subjects`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\SubjectListController.php(20): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\SubjectListController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectListController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+ERROR - 2024-11-05 14:28:02 --> mysqli_sql_exception: Column 'sem' cannot be null in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `sc...', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `sc...')
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `sc...')
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `sc...', Array, false)
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\ScheduleController.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\ScheduleController->create()
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+#10 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-05 14:28:02 --> Column 'sem' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `schedules` (`faculty_name`, `days_of_week`, `title`, `time_from`, `time_to`, `schedule_type`, `sem`, `room`, `description`, `course`, `year`, `section`, `subjects`, `name`) VALUES (:faculty_name:, :days_of_week:, :title:, :time_from:, :time_to:, :schedule_type:, :sem:, :room:, :description:, :course:, :year:, :section:, :subjects:, :name:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ScheduleController.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+ERROR - 2024-11-05 14:29:01 --> mysqli_sql_exception: Unknown column 'sem' in 'field list' in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `sc...', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `sc...')
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `sc...')
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `sc...', Array, false)
+#4 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\Colegio_de_PuertoGalera\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\laragon\www\Colegio_de_PuertoGalera\app\Controllers\ScheduleController.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(919): App\Controllers\ScheduleController->create()
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+#10 C:\laragon\www\Colegio_de_PuertoGalera\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\Colegio_de_PuertoGalera\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#13 {main}
+CRITICAL - 2024-11-05 14:29:01 --> Unknown column 'sem' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `schedules` (`faculty_name`, `days_of_week`, `title`, `time_from`, `time_to`, `schedule_type`, `sem`, `room`, `description`, `course`, `year`, `section`, `subjects`, `name`) VALUES (:faculty_name:, :days_of_week:, :title:, :time_from:, :time_to:, :schedule_type:, :sem:, :room:, :description:, :course:, :year:, :section:, :subjects:, :name:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ScheduleController.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 14:29:21 --> Undefined array key "sem"
+in APPPATH\Views\schedule\index.php on line 290.
+ 1 APPPATH\Views\schedule\index.php(290): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "sem"', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 290)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(37): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 14:29:35 --> Undefined array key "sem"
+in APPPATH\Views\schedule\index.php on line 353.
+ 1 APPPATH\Views\schedule\index.php(353): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "sem"', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php', 353)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/index', [], true)
+ 5 APPPATH\Controllers\ScheduleController.php(37): view('schedule/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ScheduleController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ScheduleController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-05 14:47:09 --> Undefined variable $subjects
+in APPPATH\Views\schedule\CourseYear.php on line 55.
+ 1 APPPATH\Views\schedule\CourseYear.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $subjects', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\CourseYear.php', 55)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\schedule\\CourseYear.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('schedule/CourseYear', [], true)
+ 5 APPPATH\Controllers\CourseYearController.php(50): view('schedule/CourseYear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\CourseYearController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CourseYearController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')

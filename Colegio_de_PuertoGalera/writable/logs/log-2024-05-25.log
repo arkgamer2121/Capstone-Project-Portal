@@ -1,0 +1,7 @@
+CRITICAL - 2024-05-25 05:44:54 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\QrCodeController.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\QrCodeController->generate()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\QrCodeController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')

@@ -1,0 +1,64 @@
+CRITICAL - 2024-09-13 00:07:51 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+in SYSTEMPATH/Database/BaseBuilder.php on line 2766.
+ 1 SYSTEMPATH/Model.php(445): CodeIgniter\Database\BaseBuilder->delete()
+ 2 SYSTEMPATH/BaseModel.php(1080): CodeIgniter\Model->doDelete()
+ 3 APPPATH/Controllers/TeacherController.php(99): CodeIgniter\BaseModel->delete()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\TeacherController->delete()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-13 00:10:00 --> Undefined variable $member
+in APPPATH/Views/admin/faculty_list.php on line 120.
+ 1 APPPATH/Views/admin/faculty_list.php(120): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Views/admin/faculty_list.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/FacultyController.php(31): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-13 00:10:08 --> Undefined variable $member
+in APPPATH/Views/admin/faculty_list.php on line 120.
+ 1 APPPATH/Views/admin/faculty_list.php(120): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Views/admin/faculty_list.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/FacultyController.php(31): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-13 00:10:14 --> Undefined variable $member
+in APPPATH/Views/admin/faculty_list.php on line 120.
+ 1 APPPATH/Views/admin/faculty_list.php(120): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Views/admin/faculty_list.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/FacultyController.php(31): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-13 02:32:11 --> Undefined variable $member
+in APPPATH/Views/admin/faculty_list.php on line 120.
+ 1 APPPATH/Views/admin/faculty_list.php(120): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Views/admin/faculty_list.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/FacultyController.php(31): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-13 11:24:09 --> Undefined variable $member
+in APPPATH/Views/admin/faculty_list.php on line 120.
+ 1 APPPATH/Views/admin/faculty_list.php(120): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Views/admin/faculty_list.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/FacultyController.php(31): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()

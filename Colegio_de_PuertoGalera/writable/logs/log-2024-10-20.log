@@ -1,0 +1,567 @@
+CRITICAL - 2024-10-20 05:43:48 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 05:43:52 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 07:13:04 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/RequestController.php on line 23.
+ 1 APPPATH/Controllers/RequestController.php(23): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\RequestController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 07:13:07 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 07:13:08 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 07:13:09 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 12:31:02 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 12:31:54 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 13:14:11 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 13:14:16 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 13:14:21 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 13:14:26 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 13:14:31 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 13:14:36 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 13:14:41 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 13:14:46 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 13:14:51 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 13:14:56 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 13:15:02 --> Class "App\Models\CourseModel" not found
+in APPPATH/Controllers/CourseController.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\CourseController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-20 13:16:27 --> mysqli_sql_exception: Table 'u127431254_cdpgapp.courses' doesn't exist in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(624): CodeIgniter\Model->doFindAll()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/CourseController.php(13): CodeIgniter\BaseModel->findAll()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\CourseController->index()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-10-20 13:16:27 --> Table 'u127431254_cdpgapp.courses' doesn't exist
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH/BaseModel.php(624): CodeIgniter\Model->doFindAll()
+ 4 APPPATH/Controllers/CourseController.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\CourseController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 13:42:18 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 13:51:27 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 13:51:32 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:22:19 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:22:24 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:22:29 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:36:41 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:36:45 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:36:50 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:36:55 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:37:00 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:37:05 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:37:10 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:37:16 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:37:20 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:37:26 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:37:30 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:37:35 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:37:40 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:37:46 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:37:50 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:37:55 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:38:01 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:38:06 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:38:11 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:38:16 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:38:21 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:38:26 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:38:30 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:38:36 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:38:41 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:38:46 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:38:50 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:38:55 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:39:00 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:39:06 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:39:10 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:39:16 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:39:20 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:39:26 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:46:49 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 14:46:54 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-20 23:19:25 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH/Controllers/Home.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Home.php(62): file_get_contents()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()

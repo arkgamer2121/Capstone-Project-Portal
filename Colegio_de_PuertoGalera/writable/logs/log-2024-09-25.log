@@ -1,0 +1,102 @@
+CRITICAL - 2024-09-25 17:10:25 --> Class "PhpOffice\PhpSpreadsheet\IOFactory" not found
+in APPPATH/Controllers/AdminController.php on line 151.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\AdminController->uploadExcel()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-25 17:28:32 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH/Controllers/AdminController.php on line 8.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-09-25 17:29:15 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH/Controllers/AdminController.php on line 8.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-09-25 17:31:36 --> require_once(/home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/vendor/autoload.php): Failed to open stream: No such file or directory
+in APPPATH/Controllers/AdminController.php on line 7.
+ 1 APPPATH/Controllers/AdminController.php(7): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/AdminController.php(7): require_once()
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(306): include_once('/home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/AdminController.php')
+ 4 SYSTEMPATH/Autoloader/Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 5 SYSTEMPATH/Autoloader/Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 7 SYSTEMPATH/CodeIgniter.php(877): class_exists()
+ 8 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-25 17:32:47 --> Class "PhpOffice\PhpSpreadsheet\IOFactory" not found
+in APPPATH/Controllers/AdminController.php on line 155.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\AdminController->uploadExcel()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-25 17:37:43 --> Class "PhpOffice\PhpSpreadsheet\src\PhpSpreadsheet\IOFactory" not found
+in APPPATH/Controllers/AdminController.php on line 155.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\AdminController->uploadExcel()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-25 17:39:47 --> Class "PhpOffice\PhpSpreadsheet\Reader\Xlsx" not found
+in APPPATH/Controllers/AdminController.php on line 156.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\AdminController->uploadExcel()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-25 17:47:37 --> require_once(/home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/../vendor/autoload.php): Failed to open stream: No such file or directory
+in APPPATH/Controllers/AdminController.php on line 7.
+ 1 APPPATH/Controllers/AdminController.php(7): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/AdminController.php(7): require_once()
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(306): include_once('/home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/AdminController.php')
+ 4 SYSTEMPATH/Autoloader/Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 5 SYSTEMPATH/Autoloader/Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 7 SYSTEMPATH/CodeIgniter.php(877): class_exists()
+ 8 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-25 17:47:39 --> require_once(/home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/../vendor/autoload.php): Failed to open stream: No such file or directory
+in APPPATH/Controllers/AdminController.php on line 7.
+ 1 APPPATH/Controllers/AdminController.php(7): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/AdminController.php(7): require_once()
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(306): include_once('/home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/AdminController.php')
+ 4 SYSTEMPATH/Autoloader/Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 5 SYSTEMPATH/Autoloader/Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 7 SYSTEMPATH/CodeIgniter.php(877): class_exists()
+ 8 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-25 17:48:12 --> Class "PhpOffice\PhpSpreadsheet\IOFactory" not found
+in APPPATH/Controllers/AdminController.php on line 155.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\AdminController->uploadExcel()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-25 17:48:34 --> require_once(/home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/../../../vendor/autoload.php): Failed to open stream: No such file or directory
+in APPPATH/Controllers/AdminController.php on line 7.
+ 1 APPPATH/Controllers/AdminController.php(7): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/AdminController.php(7): require_once()
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(306): include_once('/home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/AdminController.php')
+ 4 SYSTEMPATH/Autoloader/Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 5 SYSTEMPATH/Autoloader/Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 7 SYSTEMPATH/CodeIgniter.php(877): class_exists()
+ 8 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-25 17:48:38 --> require_once(/home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/../../../vendor/autoload.php): Failed to open stream: No such file or directory
+in APPPATH/Controllers/AdminController.php on line 7.
+ 1 APPPATH/Controllers/AdminController.php(7): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/AdminController.php(7): require_once()
+ 3 SYSTEMPATH/Autoloader/Autoloader.php(306): include_once('/home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/AdminController.php')
+ 4 SYSTEMPATH/Autoloader/Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 5 SYSTEMPATH/Autoloader/Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 6 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 7 SYSTEMPATH/CodeIgniter.php(877): class_exists()
+ 8 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-09-25 17:48:59 --> Class "PhpOffice\PhpSpreadsheet\IOFactory" not found
+in APPPATH/Controllers/AdminController.php on line 155.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\AdminController->uploadExcel()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()

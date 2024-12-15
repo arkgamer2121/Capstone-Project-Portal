@@ -1,0 +1,24 @@
+CRITICAL - 2024-10-02 17:57:35 --> Undefined variable $sex
+in APPPATH\Views\login-register\profile_view.php on line 263.
+ 1 APPPATH\Views\login-register\profile_view.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sex', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\login-register\\profile_view.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\login-register\\profile_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('login-register/profile_view', [], true)
+ 5 APPPATH\Controllers\ProfileController.php(19): view('login-register/profile_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProfileController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-10-02 18:00:16 --> Undefined variable $sex
+in APPPATH\Views\login-register\profile_view.php on line 263.
+ 1 APPPATH\Views\login-register\profile_view.php(263): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sex', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\login-register\\profile_view.php', 263)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\login-register\\profile_view.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('login-register/profile_view', [], true)
+ 5 APPPATH\Controllers\ProfileController.php(19): view('login-register/profile_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProfileController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')

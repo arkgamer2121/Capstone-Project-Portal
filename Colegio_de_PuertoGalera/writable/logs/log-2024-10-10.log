@@ -1,0 +1,206 @@
+CRITICAL - 2024-10-10 01:02:58 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\RequestController.php on line 21.
+ 1 APPPATH\Controllers\RequestController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\RequestController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\RequestController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RequestController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-10-10 01:03:08 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\SupportingDocuments.php on line 20.
+ 1 APPPATH\Controllers\SupportingDocuments.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\SupportingDocuments.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\SupportingDocuments->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SupportingDocuments))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-10-10 01:03:10 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\RequestController.php on line 21.
+ 1 APPPATH\Controllers\RequestController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\RequestController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\RequestController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RequestController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-10-10 01:03:18 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\SupportingDocuments.php on line 20.
+ 1 APPPATH\Controllers\SupportingDocuments.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\SupportingDocuments.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\SupportingDocuments->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SupportingDocuments))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-10-10 01:03:55 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\SupportingDocuments.php on line 20.
+ 1 APPPATH\Controllers\SupportingDocuments.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\SupportingDocuments.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\SupportingDocuments->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SupportingDocuments))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-10-10 01:04:18 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\SupportingDocuments.php on line 20.
+ 1 APPPATH\Controllers\SupportingDocuments.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\SupportingDocuments.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\SupportingDocuments->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SupportingDocuments))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-10-10 01:34:50 --> Undefined variable $submitted_documents
+in APPPATH\Views\request_form.php on line 239.
+ 1 APPPATH\Views\request_form.php(239): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $submitted_documents', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\request_form.php', 239)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\request_form.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('request_form', [], true)
+ 5 APPPATH\Controllers\RequestController.php(24): view('request_form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\RequestController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RequestController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+ERROR - 2024-10-10 01:43:34 --> mysqli_sql_exception: Table 'students' already exists in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(306): mysqli->query('CREATE TABLE `s...', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `s...')
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `s...')
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\Forge.php(546): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `s...')
+#4 C:\laragon\www\Colegio_de_PuertoGalera\app\Database\Migrations\2024-10-10-014222_CreateStudentsTable.php(48): CodeIgniter\Database\Forge->createTable('students')
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MigrationRunner.php(877): App\Database\Migrations\CreateStudentsTable->up()
+#6 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\laragon\www\Colegio_de_PuertoGalera\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+ERROR - 2024-10-10 01:43:56 --> mysqli_sql_exception: Invalid default value for 'created_at' in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(306): mysqli->query('CREATE TABLE `s...', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `s...')
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `s...')
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\Forge.php(546): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `s...')
+#4 C:\laragon\www\Colegio_de_PuertoGalera\app\Database\Migrations\2024-10-10-014222_CreateStudentsTable.php(48): CodeIgniter\Database\Forge->createTable('student')
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MigrationRunner.php(877): App\Database\Migrations\CreateStudentsTable->up()
+#6 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\laragon\www\Colegio_de_PuertoGalera\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+ERROR - 2024-10-10 01:44:14 --> mysqli_sql_exception: Table 'students' already exists in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(306): mysqli->query('CREATE TABLE `s...', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `s...')
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `s...')
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\Forge.php(546): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `s...')
+#4 C:\laragon\www\Colegio_de_PuertoGalera\app\Database\Migrations\2024-10-10-014222_CreateStudentsTable.php(48): CodeIgniter\Database\Forge->createTable('students')
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MigrationRunner.php(877): App\Database\Migrations\CreateStudentsTable->up()
+#6 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\laragon\www\Colegio_de_PuertoGalera\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+ERROR - 2024-10-10 01:44:47 --> mysqli_sql_exception: Table 'students' already exists in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(306): mysqli->query('CREATE TABLE `s...', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `s...')
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `s...')
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\Forge.php(546): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `s...')
+#4 C:\laragon\www\Colegio_de_PuertoGalera\app\Database\Migrations\2024-10-10-014222_CreateStudentsTable.php(48): CodeIgniter\Database\Forge->createTable('students')
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MigrationRunner.php(877): App\Database\Migrations\CreateStudentsTable->up()
+#6 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\laragon\www\Colegio_de_PuertoGalera\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+ERROR - 2024-10-10 01:45:23 --> mysqli_sql_exception: Table 'students' already exists in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(306): mysqli->query('CREATE TABLE `s...', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `s...')
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `s...')
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\Forge.php(546): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `s...')
+#4 C:\laragon\www\Colegio_de_PuertoGalera\app\Database\Migrations\2024-10-10-014222_CreateStudentsTable.php(48): CodeIgniter\Database\Forge->createTable('students')
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MigrationRunner.php(877): App\Database\Migrations\CreateStudentsTable->up()
+#6 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\laragon\www\Colegio_de_PuertoGalera\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+ERROR - 2024-10-10 01:45:58 --> mysqli_sql_exception: Table 'students' already exists in C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MySQLi\Connection.php(306): mysqli->query('CREATE TABLE `s...', 0)
+#1 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `s...')
+#2 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `s...')
+#3 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\Forge.php(546): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `s...')
+#4 C:\laragon\www\Colegio_de_PuertoGalera\app\Database\Migrations\2024-10-10-014222_CreateStudentsTable.php(48): CodeIgniter\Database\Forge->createTable('students')
+#5 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MigrationRunner.php(877): App\Database\Migrations\CreateStudentsTable->up()
+#6 C:\laragon\www\Colegio_de_PuertoGalera\system\Database\MigrationRunner.php(188): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 C:\laragon\www\Colegio_de_PuertoGalera\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\laragon\www\Colegio_de_PuertoGalera\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\laragon\www\Colegio_de_PuertoGalera\system\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\laragon\www\Colegio_de_PuertoGalera\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
+CRITICAL - 2024-10-10 01:55:56 --> Invalid file: "student_requests.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('student_requests.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('student_requests', [], true)
+ 3 APPPATH\Controllers\StudentRequestController.php(59): view('student_requests', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentRequestController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentRequestController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-10-10 02:14:06 --> Undefined array key "schedule"
+in APPPATH\Views\request_form.php on line 227.
+ 1 APPPATH\Views\request_form.php(227): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "schedule"', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\request_form.php', 227)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\request_form.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('request_form', [], true)
+ 5 APPPATH\Controllers\RequestController.php(24): view('request_form', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\RequestController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RequestController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-10-10 05:33:03 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\RequestController.php on line 21.
+ 1 APPPATH\Controllers\RequestController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\RequestController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\RequestController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RequestController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-10-10 05:33:09 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\RequestController.php on line 21.
+ 1 APPPATH\Controllers\RequestController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\RequestController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\RequestController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RequestController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-10-10 05:33:10 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\RequestController.php on line 21.
+ 1 APPPATH\Controllers\RequestController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\RequestController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\RequestController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RequestController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-10-10 05:33:11 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\RequestController.php on line 21.
+ 1 APPPATH\Controllers\RequestController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\RequestController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\RequestController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RequestController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-10-10 05:33:12 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\RequestController.php on line 21.
+ 1 APPPATH\Controllers\RequestController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\RequestController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\RequestController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RequestController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')

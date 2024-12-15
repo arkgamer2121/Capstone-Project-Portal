@@ -1,0 +1,82 @@
+CRITICAL - 2024-11-24 07:40:39 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-24 07:40:40 --> file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Controllers\Home.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(https://api.tawk.to/v1/visitors): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Controllers\\Home.php', 63)
+ 2 APPPATH\Controllers\Home.php(63): file_get_contents('https://api.tawk.to/v1/visitors', false, resource (stream-context))
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home->getLiveVisitors()
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-24 09:39:16 --> Undefined variable $subject
+in APPPATH\Views\admin\facultyscheduledetails.php on line 214.
+ 1 APPPATH\Views\admin\facultyscheduledetails.php(214): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $subject', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\admin\\facultyscheduledetails.php', 214)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\admin\\facultyscheduledetails.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/facultyscheduledetails', [], true)
+ 5 APPPATH\Controllers\FacultyController.php(104): view('admin/facultyscheduledetails', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\FacultyController->details('6')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FacultyController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-24 10:44:21 --> Undefined variable $subject
+in APPPATH\Views\admin\facultyscheduledetails.php on line 214.
+ 1 APPPATH\Views\admin\facultyscheduledetails.php(214): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $subject', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\admin\\facultyscheduledetails.php', 214)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\admin\\facultyscheduledetails.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/facultyscheduledetails', [], true)
+ 5 APPPATH\Controllers\FacultyController.php(104): view('admin/facultyscheduledetails', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\FacultyController->details('6')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FacultyController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-24 10:44:21 --> Undefined variable $subject
+in APPPATH\Views\admin\facultyscheduledetails.php on line 214.
+ 1 APPPATH\Views\admin\facultyscheduledetails.php(214): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $subject', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\admin\\facultyscheduledetails.php', 214)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\admin\\facultyscheduledetails.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/facultyscheduledetails', [], true)
+ 5 APPPATH\Controllers\FacultyController.php(104): view('admin/facultyscheduledetails', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\FacultyController->details('6')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FacultyController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-24 11:09:14 --> Undefined variable $subject
+in APPPATH\Views\admin\facultyscheduledetails.php on line 214.
+ 1 APPPATH\Views\admin\facultyscheduledetails.php(214): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $subject', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\admin\\facultyscheduledetails.php', 214)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\admin\\facultyscheduledetails.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/facultyscheduledetails', [], true)
+ 5 APPPATH\Controllers\FacultyController.php(104): view('admin/facultyscheduledetails', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\FacultyController->details('6')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FacultyController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')
+CRITICAL - 2024-11-24 11:09:14 --> Undefined variable $subject
+in APPPATH\Views\admin\facultyscheduledetails.php on line 214.
+ 1 APPPATH\Views\admin\facultyscheduledetails.php(214): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $subject', 'C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\admin\\facultyscheduledetails.php', 214)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Colegio_de_PuertoGalera\\app\\Views\\admin\\facultyscheduledetails.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/facultyscheduledetails', [], true)
+ 5 APPPATH\Controllers\FacultyController.php(104): view('admin/facultyscheduledetails', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\FacultyController->details('6')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FacultyController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Colegio_de_PuertoGalera\\public\\index.php')

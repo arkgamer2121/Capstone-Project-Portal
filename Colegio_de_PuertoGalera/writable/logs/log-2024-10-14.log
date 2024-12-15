@@ -1,0 +1,1176 @@
+CRITICAL - 2024-10-14 01:02:18 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:02:22 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:02:26 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:02:38 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:02:39 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:02:41 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:02:42 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:02:44 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:02:45 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:02:46 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:02:46 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:03:12 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:03:14 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:03:16 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:04:11 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:04:14 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:04:14 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:06:46 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:11:03 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:11:10 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 01:18:25 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 04:43:39 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 04:45:17 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 04:45:23 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 05:12:56 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 05:14:05 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 05:14:18 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 05:14:18 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 05:14:18 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 11:13:37 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 11:13:41 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 11:13:41 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 11:14:00 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 12:46:49 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/RequestController.php on line 23.
+ 1 APPPATH/Controllers/RequestController.php(23): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\RequestController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 12:46:55 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/RequestController.php on line 23.
+ 1 APPPATH/Controllers/RequestController.php(23): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\RequestController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 12:48:35 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/RequestController.php on line 23.
+ 1 APPPATH/Controllers/RequestController.php(23): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\RequestController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 12:48:44 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 12:48:56 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 12:49:05 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 12:49:08 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 12:49:10 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 12:49:11 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 12:52:13 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:35:45 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:35:45 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:36:49 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:36:49 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:41:26 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:41:26 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:42:18 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:42:18 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:47:07 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:47:07 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:47:21 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-10-14 13:47:21 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:50:04 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-10-14 13:50:04 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:51:30 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-10-14 13:51:30 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:55:47 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:55:47 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:55:48 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:55:48 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:55:49 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:55:49 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:55:50 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:55:50 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:55:50 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:55:50 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:55:50 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:55:50 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:55:50 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:55:50 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:55:51 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:55:51 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:55:51 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:55:51 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:55:51 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:55:51 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:56:00 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:56:00 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:56:01 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:56:01 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:56:06 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 13:56:06 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 13:57:27 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 13:57:28 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 13:57:28 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 13:58:14 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-10-14 13:58:14 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 14:01:58 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-10-14 14:01:58 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 14:03:04 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 14:03:04 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 14:03:54 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-10-14 14:03:54 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 14:04:26 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-10-14 14:04:26 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 14:12:47 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-14 14:12:47 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 14:20:08 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-10-14 14:20:08 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 14:24:27 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-10-14 14:24:27 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 14:24:46 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-10-14 14:24:46 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/SubjectListController.php(38): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\SubjectListController->store()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-14 14:39:10 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/TeacherController.php(79): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\TeacherController->insert()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-10-14 14:39:10 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/TeacherController.php(79): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\TeacherController->insert()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-14 14:40:11 --> The original file is not a valid file.
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 146.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(146): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH/Controllers/TeacherController.php(67): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\TeacherController->insert()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()

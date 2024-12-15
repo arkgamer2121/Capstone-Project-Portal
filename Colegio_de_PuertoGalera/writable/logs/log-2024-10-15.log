@@ -1,0 +1,73 @@
+ERROR - 2024-10-15 01:11:52 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(698): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-10-15 01:11:52 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 SYSTEMPATH/BaseModel.php(698): CodeIgniter\Model->insert()
+ 6 APPPATH/Controllers/FacultyController.php(41): CodeIgniter\BaseModel->save()
+ 7 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\FacultyController->store()
+ 8 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-15 06:46:43 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-15 11:11:42 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-15 11:18:53 --> syntax error, unexpected identifier "after", expecting "]"
+in APPPATH/Config/Filters.php on line 41.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/Config/Factories.php(277): class_exists()
+ 5 SYSTEMPATH/Config/Factories.php(196): CodeIgniter\Config\Factories::locateClass()
+ 6 SYSTEMPATH/Config/Factories.php(155): CodeIgniter\Config\Factories::getDefinedInstance()
+ 7 SYSTEMPATH/Common.php(217): CodeIgniter\Config\Factories::__callStatic()
+ 8 SYSTEMPATH/Config/Services.php(290): config()
+ 9 SYSTEMPATH/Config/BaseService.php(258): CodeIgniter\Config\Services::filters()
+10 SYSTEMPATH/Config/BaseService.php(199): CodeIgniter\Config\BaseService::__callStatic()
+11 SYSTEMPATH/Config/Services.php(287): CodeIgniter\Config\BaseService::getSharedInstance()
+12 SYSTEMPATH/Config/BaseService.php(258): CodeIgniter\Config\Services::filters()
+13 SYSTEMPATH/CodeIgniter.php(448): CodeIgniter\Config\BaseService::__callStatic()
+14 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+15 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-15 13:25:32 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/ProfileController.php on line 20.
+ 1 APPPATH/Controllers/ProfileController.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-10-15 17:03:58 --> Undefined variable $newName
+in APPPATH/Controllers/ProfileController.php on line 62.
+ 1 APPPATH/Controllers/ProfileController.php(62): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ProfileController->uploadImage()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()

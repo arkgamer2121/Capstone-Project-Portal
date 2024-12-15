@@ -1,0 +1,52 @@
+ERROR - 2024-10-04 11:30:18 --> mysqli_sql_exception: Column 'message' cannot be null in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/ContactController.php(34): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\ContactController->sendEmail()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-10-04 11:30:18 --> Column 'message' cannot be null
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/ContactController.php(34): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ContactController->sendEmail()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-10-04 11:30:19 --> mysqli_sql_exception: Column 'message' cannot be null in /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+#4 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/BaseModel.php(788): CodeIgniter\Model->doInsert()
+#6 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/Model.php(715): CodeIgniter\BaseModel->insert()
+#7 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/app/Controllers/ContactController.php(34): CodeIgniter\Model->insert()
+#8 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(919): App\Controllers\ContactController->sendEmail()
+#9 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#10 /home/u127431254/domains/colegiodepuertogalera.online/public_html/website/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/u127431254/domains/colegiodepuertogalera.online/public_html/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-10-04 11:30:19 --> Column 'message' cannot be null
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query()
+ 2 SYSTEMPATH/Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(788): CodeIgniter\Model->doInsert()
+ 4 SYSTEMPATH/Model.php(715): CodeIgniter\BaseModel->insert()
+ 5 APPPATH/Controllers/ContactController.php(34): CodeIgniter\Model->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\ContactController->sendEmail()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
